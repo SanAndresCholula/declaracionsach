@@ -78,6 +78,7 @@ contar el actual. Se sugiere tener a la mano el currículum vítae.
                   </div>
                </div>
             </div>
+            
             <div class="col-md-4 col-sm-12">
                <div class="form-group" id="grupo__nom_usuario">
                   <label for="usuario">*Localidad o colonia</label>
