@@ -1,0 +1,10 @@
+CPANEL
+direccion: https://billing.hostgator.mx/
+Usuario gaso.ingenieria@gmail.com
+Password Neperx41
+
+BASE DE DATOS PROYECTOAK
+
+DB_NAME: proye178_bd_proyectoak
+USER_NAME: proye178_user_proyectoak
+PASS: @Pr0y3ct04k

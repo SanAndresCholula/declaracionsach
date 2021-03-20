@@ -1,0 +1,43 @@
+.containerProfile {
+    background: url("../img/main.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: #444;
+    width: 15rem;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 20px;
+    margin: solid 10px #fff;
+    margin-bottom: 10px
+}
+
+.cardProfile {
+    width: 15rem;
+    margin: 0 auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#perfil {
+    width: 10rem;
+    border-radius: 50%;
+    padding-top: 10px
+}
+
+.card-body {
+    margin-top: 10px;
+    background: Transparent;
+    Color: #fff;
+    text-align: center;
+    font-size: 18px
+}

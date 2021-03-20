@@ -1,0 +1,7 @@
+.nav-link.Deshabilitado {
+    color: #000000;
+    pointer-events: none;
+    cursor: default;
+    font-weight: bolder;
+    text-shadow: -4px 1px 15px #fff;
+}

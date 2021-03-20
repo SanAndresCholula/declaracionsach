@@ -1,0 +1,11 @@
+
+
+conexiones para modificar
+addDatos.php
+addUser.php
+add.Event.php
+config.php
+bdd.php
+
+$conexion = mysqli_connect('localhost', 'root', '@itroot', 'bd_bienestar');
+$conexion = mysqli_connect('localhost', 'root', '', 'bd_bienestar');

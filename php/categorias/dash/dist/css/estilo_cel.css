@@ -1,0 +1,324 @@
+html, body {
+    margin: 0px;    
+    height: 100%;
+}
+
+p {
+    margin: 0px;
+}
+
+h1 {
+    font-size: 1em;
+    font-weight: normal;
+    margin: 0px;
+}
+
+h2 {
+    font-size: 1em;
+    display: inline;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+}
+
+a img {
+    border: 0;
+}
+
+.contenedor {
+    max-width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#menu {
+    background-color: steelblue;    
+}
+
+#logo {
+    padding-top: 5px;
+    float: left;
+}
+
+#ads_2 {   
+    max-width: 468px;
+    padding: 8px 0px 6px 0px;
+    clear: both;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#titulo {
+    color: white;
+    padding-top: 15px;
+    float: left;
+}
+
+#buscador {
+    padding: 15px 0px 15px 0px;
+    max-width: 350px;
+    margin-left: auto;
+}
+
+#mapa_barra {
+    background-color: steelblue;
+    color: white;
+    padding: 15px;
+}
+
+#mapa_barra a:link, #mapa_barra a:visited {
+    color: white;
+}
+
+#mapa {
+    height: 80%;
+}
+
+#contenido_info {
+    background-color: steelblue;
+    color: white;
+    padding: 15px;
+    font-weight: bold;
+}
+
+#contenido {
+    max-width: 1100px;
+    margin-left:auto;
+    margin-right:auto;
+    box-shadow: 0px 4px 6px #333;
+    height: auto;
+    overflow: hidden;
+    display: -webkit-box;
+    display: -moz-box;
+    display: box;
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    box-orient: vertical;
+}
+
+#izquierda{
+    width: auto;
+    overflow: hidden;
+    -webkit-box-ordinal-group: 1;
+    -moz-box-ordinal-group: 1;
+    box-ordinal-group: 1;
+}
+
+#lugares {
+
+}
+
+#lugares  a:link , #lugares a:visited, #codigo_colonias a:link,#codigo_colonias a:visited {
+    color: black;
+}
+
+.fila_non {
+    padding: 3px 5px 3px 15px;
+}
+
+.fila_par {
+    background-color: aliceblue;
+    padding: 3px 5px 3px 15px;
+}
+
+.icono {
+    margin-right: 7px;
+}
+
+.titulo {
+    font-weight: bold;
+}
+
+.dir {
+    padding: 0px 5px 0px 5px;
+}
+
+img.tel {
+    width: 16px;
+    padding: 0px 5px 0px 10px;
+}
+
+#derecha{
+    -webkit-box-ordinal-group: 2;
+    -moz-box-ordinal-group: 2;
+    box-ordinal-group: 2;
+}
+
+div#ads_1 {
+    padding: 10px 0px;
+}
+
+#calle_info, #colonia_info, #codigos_postales_info , #numeralia_info {
+    font-weight: bold;
+    background-color: sandybrown;
+    padding: 5px 0px 5px 15px;
+    color: black;
+}
+
+#calle_info img , #colonia_info img, #codigos_postales_info img {
+    vertical-align: middle;
+    margin-left: -10px;
+    padding-right: 5px;
+}
+
+#recurso_info img, #numeralia_info img {
+    vertical-align: middle;
+    padding-right: 5px;
+    margin-left: -5px;
+}
+
+#colonia {
+    margin-top: 5px;
+}
+
+#calle, #colonia{
+    color: darkred;
+}
+
+#calle  a:link, #colonia a:link, #codigos_postales a:link {
+    color: darkred;
+}
+
+#calle a:visited, #colonia a:visited, #codigos_postales a:visited {
+    color: darkred;
+}
+
+.calle_par, .colonia_par, .codigo_par {
+    background-color: bisque;
+    padding: 3px 0px 3px 15px;
+}
+
+.calle_non, .colonia_non, .codigo_non {
+    padding: 3px 0px 3px 15px;
+}
+
+#recurso_info {
+    background-color: gray;
+    padding: 10px;
+    margin-top: 5px;
+}
+
+#recurso {
+    background-color: gainsboro;
+    font-weight: bold;
+}
+
+#recurso_texto {
+    padding: 5px;
+}
+
+#contenido_barra {
+    background-color: steelblue;
+    padding-top: 5px;
+}
+
+#sin_datos {
+    font-weight: bold;
+    line-height: 328px;
+    height: 328px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+#codigo_colonias_info {
+    font-weight: bold;
+    background-color: lightskyblue;
+    padding: 5px 0px 5px 15px;
+    color: white;
+}
+
+#codigo_colonias_info img {
+    vertical-align: middle;
+    padding-right: 10px;
+}
+
+#elementos { 
+    font-weight: bold;
+}
+
+#elementos a:link,#elementos a:visited {
+    color: black;
+}
+
+#elementos img {
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+#indice {
+    font-weight: bold;
+    background-color: lightskyblue;
+    padding: 5px 0px 5px 15px;
+    color: white;
+}
+
+#indice  a{
+    padding-right: 5px;
+}
+
+#indice a:link,#indice a:visited {
+    color: white;
+}
+
+div[id^="indice_"] {
+    font-size: 1.5em;;
+    color: sandybrown;
+    background-color: floralwhite;
+}
+
+#numeralia {
+    background-color: bisque;
+    padding: 10px;
+}
+
+#estado_ciu {
+    background-color: sandybrown;
+    font-weight: bold;
+    padding: 5px 10px;
+    text-align: center;
+}
+
+#mapa_mun {
+    padding: 10px;
+    background-color: lightskyblue;
+    font-weight: bold;
+}
+
+#escudo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+
+#heraldo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#creditos {
+    text-align: center;
+    font-weight: bold;
+    color: steelblue;
+    padding: 10px;
+    background-color: floralwhite;
+    font-size: 0.8em;
+}
+
+#disqus_thread {
+    background-color: aliceblue;
+    padding: 5px;
+}
+
+#telescopio{
+    margin-left:auto;
+    margin-right:auto;
+    width: 50px;
+}
+
+#clear  {
+    clear: both;
+}

@@ -1,0 +1,10 @@
+.content .box {
+    border: 1px solid #fff;
+    padding: 15px 10px;
+    margin-bottom: 15px;
+    border-radius: 25px;
+}
+
+#test_upload {
+    color: #000
+}

@@ -1,0 +1,120 @@
+/* Made with love by Mutiullah Samim*/
+
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+html,
+body {
+    background-image: url('../img/1.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed, scroll;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+}
+
+.cover-heading {
+    padding-top: 5rem;
+    color: #fff;
+}
+
+#text {
+    padding-top: 2rem;
+}
+
+.lead {
+    color: #fff;
+}
+
+
+hr.style-one {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+.container {
+    height: 100%;
+    align-content: center;
+}
+
+.contenedorRegistro {
+    border-radius: 20px;
+    padding: 20px 30px;
+    color: #fff;
+}
+
+.card {
+    height: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5) !important;
+    border: 1px solid #fff;
+    border-radius: 20px
+}
+
+.social_icon span {
+    font-size: 60px;
+    margin-left: 10px;
+    color: #FFC312;
+}
+
+.social_icon span:hover {
+    color: white;
+    cursor: pointer;
+}
+
+.card-header h3 {
+    color: white;
+}
+
+.social_icon {
+    position: absolute;
+    right: 20px;
+    top: -45px;
+}
+
+.input-group-prepend span {
+    width: 50px;
+    background-color: #FFC312;
+    color: black;
+    border: 0 !important;
+}
+
+input:focus {
+    outline: 0 0 0 0 !important;
+    box-shadow: 0 0 0 0 !important;
+
+}
+
+nav {
+    background-color: #000;
+}
+
+a {
+    color: #ffffff;
+    font-family: Numans, sans-serif;
+
+}
+
+tr,
+td {
+    color: #fff;
+    font-weight: 900;
+}
+
+.formulario {
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    padding: 20px 10px;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+table {
+    background: rgba(0, 0, 0, 0.3)
+}
