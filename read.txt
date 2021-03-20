@@ -1,0 +1,18 @@
+git
+
+https://github.com/innovacionsach
+
+correo soporteit@sach.gob.mx
+pass *s4n4ndr3s*
+
+
+por favor sube el codigo al repositorio!!!
+
+
+************************************************
+* Modificar base de datos, punto ya detectados.
+* Analizar investigar e implementar la generacion de acuses en formato PDF (como la hoja de ejemplo)
+* Investigar la generacion o exportacion del acuse a formlato xlsx.
+
+
+Muchas gracias me estas ayudando muchisimo...
